@@ -1,0 +1,16 @@
+{
+    "name": "aina/testwebsocket",
+    "description": "ratchet websocket connect",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "razafindratsiza",
+            "email": "ainarazafindratsiza23@gmail.com"
+        }
+    ],
+    "require": {"cboden/ratchet": "^0.4"}
+}
